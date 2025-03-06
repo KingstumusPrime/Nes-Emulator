@@ -18,6 +18,9 @@ I started this project because after the creation of my [Chip8]() Emulator I wan
 
 ## Gallery
 
+![Illegal](https://github.com/user-attachments/assets/e1dfb692-f79c-4e40-bee4-701aa7cc2318)
+![NESTEST](https://github.com/user-attachments/assets/6ea4809e-bd0b-44c7-a0f6-6b5d4ea3a093)
+![NESEMU](https://github.com/user-attachments/assets/330a269b-9748-4ccc-9440-49cf88f0540e)
 
 ## Getting Started
 
@@ -25,9 +28,6 @@ I started this project because after the creation of my [Chip8]() Emulator I wan
 
 * SDL2
 * Visual Studio
-![Illegal](https://github.com/user-attachments/assets/e1dfb692-f79c-4e40-bee4-701aa7cc2318)
-![NESTEST](https://github.com/user-attachments/assets/6ea4809e-bd0b-44c7-a0f6-6b5d4ea3a093)
-![NESEMU](https://github.com/user-attachments/assets/330a269b-9748-4ccc-9440-49cf88f0540e)
 
 ### Executing program
 
