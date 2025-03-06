@@ -29,7 +29,7 @@ I started this project because after the creation of my [Chip8]() Emulator I wan
 * SDL2
 * Visual Studio
 
-### Executing program
+### Executing the program
 
 * To execute this program you should just be able to open the solution in Visaul Studio and run it. To change the rom being opened just go to line 87 and change stress.nes to the name of your rom.
 
