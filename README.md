@@ -1,6 +1,6 @@
 # Nes Emulator
 
-A fully functional NES emulator with a cycle acurate PPU (Picture Proccessing Unit) and debugging tools.
+A fully functional NES emulator with a cycle acurate PPU (Picture Proccessing Unit), Illegal Opcode support, and debugging tools.
 
 ## Description
 
